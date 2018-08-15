@@ -20,6 +20,6 @@
 
 **Today's Progress**: Got the sale line grid editor working, used built in Vaadin validators which work very nicely. Getting familiar with `Binder` and `GridEditor`.
 
-**Thoughts:** It would be nice when we input the same product code, the row will merge with existing one and the quantity gets updated. Bonus point if we can flash the quantity cell to notify the user that the quantity has been updated.
+**Thoughts:** It would be nice when we input the same product code, the row merges with existing one and the quantity gets updated. Bonus point if we can put a flash animation the quantity cell to notify the user that the quantity has been updated.
 
 **Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
