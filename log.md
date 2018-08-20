@@ -23,3 +23,19 @@
 **Thoughts:** It would be nice when we input the same product code, the row merges with existing one and the quantity gets updated. Bonus point if we can put a flash animation the quantity cell to notify the user that the quantity has been updated.
 
 **Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
+
+### Day 4-7: August 16-19, 2018
+
+**Today's Progress**: On vacation.
+
+**Thoughts:** Thinking to learn how to test Vaadin app.
+
+**Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
+
+### Day 8: August 20, 2018
+
+**Today's Progress**: Use the `Binder` to auto calculate total sale. Implemented New Sale button.
+
+**Thoughts:** We should have a text field above the grid, so the user can input the product code to quickly add a sale item.
+
+**Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
