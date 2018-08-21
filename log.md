@@ -39,3 +39,11 @@
 **Thoughts:** We should have a text field above the grid, so the user can input the product code to quickly add a sale item.
 
 **Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
+
+### Day 9: August 21, 2018
+
+**Today's Progress**: I've implemented the quick add product functionality, but Vaadin is lacking key press listener. I need to implement a custom text field for this purpose. I also have finished implementing a logic to check whether the user inputs the same product. If it does then don't add new row, just add the quantity instead.
+
+**Thoughts:** Let's try setup a CI server next time.
+
+**Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
