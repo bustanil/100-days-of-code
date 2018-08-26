@@ -47,3 +47,11 @@
 **Thoughts:** Let's try setup a CI server next time.
 
 **Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
+
+### Day 12-13: August 21, 2018
+
+**Today's Progress**: Decided to give it jOOQ a try, together with FlywayDB. It's interesting to find out that you miss a lot when not using Hibernate/JPA. With jOOQ you need to use Mapper to map values to domain objects and vice versa. You also lose Spring Data JPA which means that I need to implement my own repository classes. 
+
+**Thoughts:** I'm thinking to be more serious with the application development. I want to make it a usable product.
+
+**Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
