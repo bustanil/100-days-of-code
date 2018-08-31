@@ -55,3 +55,11 @@
 **Thoughts:** I'm thinking to be more serious with the application development. I want to make it a usable product.
 
 **Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
+
+### Day 15: August 21, 2018
+
+**Today's Progress**: New sale and Complete Transaction using popup dialog
+
+**Thoughts:** Code is growing. Tomorrow should be refactor and unit testing day
+
+**Link to work:** [Jurnal](https://github.com/bustanil/jurnal)
